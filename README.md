@@ -2,12 +2,11 @@
 
 # 👋 Hey! I'm **newsoyes**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+newsoyes+%F0%9F%91%8B;AI+%26+Computer+Vi[...]" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+newsoyes+%F0%9F%91%8B;AI+%26+Computer+Vision;Python+Developer;Building+AI+Projects" />
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:7B2FF7&height=180&section=header&text=Welcome%20to%20my%20Profile&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAl[...]
-" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:7B2FF7&height=180&section=header&text=Welcome%20to%20my%20Profile&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 
 </div>
 
@@ -87,7 +86,7 @@ class Newsoyep:
 <br>
 
 <!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=ffffff&background=00000000&center=true&vCenter=true&width=700&lines=Building+AI+%26+CV+Projects...;Open+to+collaborations+%F0%9F%91%8B" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=ffffff&background=00000000&center=true&vCenter=true&width=700&lines=Building+AI+%26+CV+Projects;Exploring+Computer+Vision;Creating+Innovative+Solutions" />
 
 <br>
 
@@ -98,15 +97,11 @@ class Newsoyep:
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 GitHub Stats
 
 <div align="center">
 
-<a href="https://github.com/newsoyes">
-
-<img src="https://streak-stats.demolab.com/?user=newsoyes&theme=tokyonight&hide_border=true" />
-
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=newsoyes&show_icons=true&theme=tokyonight&hide_border=true" />
 
 </div>
 
